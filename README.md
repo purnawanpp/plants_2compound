@@ -9,3 +9,9 @@
 6. Jalankan google colab berikut ini: https://github.com/purnawanpp/plants_2compound/blob/main/plants.ipynb
 7. Upload file rec.mol2 dan lig.mol2 di google colab
 8. Eksekusi semua perintah google colab satu persatu
+
+### Reference:
+1. https://github.com/purnawanpp/plants/blob/main/plants_manual1.2.pdf
+2. https://github.com/purnawanpp/plants/blob/main/spores_manual.pdf
+3. https://github.com/purnawanpp/plants/blob/main/plants_article.pdf
+4. https://github.com/purnawanpp/plants/blob/main/spores_article.pdf
